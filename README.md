@@ -22,11 +22,12 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
 # Screenshot
+![Screenshot 2024-06-11 163626](https://github.com/xjessycaz12X/11-notetaker/assets/152758542/3be78332-3cbd-43e1-94ec-c315a460063b)
 
-([Screenshot 2024-06-11 163626](https://github.com/xjessycaz12X/11-notetaker/assets/152758542/b2900b5e-a42e-4692-9f47-05d3c9731220))
+
 
 # Links
 
-[GitHub]()
+[GitHub](https://github.com/xjessycaz12X/11-notetaker)
 
-[Deployed]()
+[Deployed](https://jcnotetakerapp-0b2d246d732a.herokuapp.com/notes)
